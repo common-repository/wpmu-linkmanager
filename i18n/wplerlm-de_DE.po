@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPler LinkManager\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stefan Jacomeit <stefan@jacomeit.com>\n"
+"Language-Team: WPler <stefan@wpler.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: wpmu_linkmanager.php\n"
+
+msgid "WPler LinkManager"
+msgstr "WPler LinkManager"
+
+msgid "WPler New Link"
+msgstr "WPler neuen Link"
+
+msgid "Only the network admin can do anything here."
+msgstr "Nur der Netzwerk-Admin kann hier etwas tun."
+
+msgid "Stored Links"
+msgstr "Gespeicherte Links"
+
+msgid "BlogID"
+msgstr "BlogID"
+
+msgid "Blogname"
+msgstr "Blogname"
+
+msgid "Link to"
+msgstr "Link zu"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Properties"
+msgstr "Eigenschaften"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Link-Text: %s"
+msgstr "Link-Text: %s"
+
+msgid "A-Title: %s"
+msgstr "A-Titel: %s"
+
+msgid "Rel: %s"
+msgstr "Rel: %s"
+
+msgid "Target: %s"
+msgstr "Target: %s"
+
+msgid "Condition: %s"
+msgstr "Condition: %s"
+
+msgid "Edit this link"
+msgstr "Link bearbeiten"
+
+msgid "Delete this link"
+msgstr "Link löschen"
+
+msgid "The Link are saved to the table"
+msgstr "Der Link wurde erfolgreich in die Tabelle gespeichert"
+
+msgid "The link are added to the table"
+msgstr "Der Link wurde erfolgreich in der Tabelle aktualisiert"
+
+msgid "The Link was deleted"
+msgstr "Der Link wurde erfolreich gelöscht"
+
+msgid "Add new link"
+msgstr "Neuen Link hinzufügen"
+
+msgid "For wich blog?"
+msgstr "Für welchen Blog?"
+
+msgid "To URL?"
+msgstr "Zur URL?"
+
+msgid "Linktext"
+msgstr "Linktext"
+
+msgid "Linktitle"
+msgstr "Linktitel"
+
+msgid "Rel"
+msgstr "Rel"
+
+msgid "Target"
+msgstr "Target"
+
+msgid "Conditional Tag"
+msgstr "Conditional Tag"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "This plugin works on multisites only"
+msgstr "Dieses Plugin funktioniert nur in Multisites"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid ""
+"To display your links in the blogs on this network use the follow function "
+"on the place where the link should shown:"
+msgstr ""
+"Um die Link in den Blogs in diesem Netzwerk anzuzeigen benutze folgende "
+"Funktion an der Stelle wo der Link angezeigt werden sollte:"
+
+msgid ""
+"Place this PHP function on the childtheme template file (i.e. footer.php), "
+"where the link should shown. The shortcode identify the blog id and get the "
+"correct link, which you have saved for the blog."
+msgstr ""
+"Platziere diese PHP Funktion in der Childtheme Datei (z.b. footer.php), wo "
+"der Link angezeigt werden soll. Der Shortcode identifiziert die Blog ID und "
+"zeigt den korrekten Link, welcher für diesen Blog gespeichert wurde, an."
